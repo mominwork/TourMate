@@ -35,6 +35,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:id="@+id/placeNameCNEventET"
+                android:textColor="@color/colorWhite"
                 android:layout_weight="3"
                 android:background="#000000"
                 android:padding="7dp"/>
@@ -68,6 +69,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:id="@+id/budgetAmountCNEventET"
+                android:textColor="@color/colorWhite"
                 android:layout_weight="3"
                 android:background="#000000"
                 android:padding="7dp" />
@@ -92,6 +94,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:id="@+id/fromDateCNEventET"
+                android:textColor="@color/colorWhite"
                 android:layout_weight="3"
                 android:background="#000000"
                 android:padding="7dp" />
@@ -116,6 +119,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:id="@+id/toDateCNEventET"
+                android:textColor="@color/colorWhite"
                 android:layout_weight="3"
                 android:background="#000000"
                 android:padding="7dp" />
