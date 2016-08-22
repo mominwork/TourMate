@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">TourMate</string>
+    <string name="app_name">Tour Mate</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
 </resources>
