@@ -44,7 +44,8 @@
                 android:layout_height="wrap_content"
                 android:id="@+id/googlePlaceBTN"
                 android:layout_weight="1"
-                android:text="Background Button"/>
+                android:text="Open Map"
+                android:onClick="openGoogleMap"/>
 
         </LinearLayout>
 
@@ -138,3 +139,4 @@
 
     </LinearLayout>
 </LinearLayout>
+
